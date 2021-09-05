@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="21" viewBox="0 0 28 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Like_1" data-name="Like 1" class="cls-1" d="M1739,959.152a6.993,6.993,0,0,0-13.97-.614h-0.06a6.994,6.994,0,0,0-13.97.645,7.421,7.421,0,0,0,1.94,4.976h0l0.01-.02c0.13,0.134.26,0.249,0.4,0.372L1725,976l11.63-11.477A7.229,7.229,0,0,0,1739,959.152Z" transform="translate(-1711 -952)"/>
+</svg>
